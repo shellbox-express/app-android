@@ -6,6 +6,6 @@ public class Constants {
     public static final String MESSAGE = "STATUS_MESSAGE";
     public static final String STATUSCONNECTION = "STATUS_CONNECTION";
 
-    public static final String BASE_URL = "http://192.168.1.28/workspace/example-media-recorder-server/";
-    public static final String GET_BALANCE = "recorder.php/";
+    public static final String BASE_URL = "https://gmmk7fjlvf.execute-api.us-east-1.amazonaws.com/dev/";
+    public static final String VOICE = "voice";
 }
